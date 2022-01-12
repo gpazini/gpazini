@@ -1,7 +1,7 @@
 <h2 align="center">
    Hi, I'm Guilherme Pazini 👋
 </h2>
-💻 Front-end Developer
+💻 Developer Front-end 
 
 ## ⚙️ GitHub Analytics
 <div>
